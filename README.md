@@ -21,10 +21,10 @@ What I want to be able to do by week 12: design and ship agentic systems end-to-
 
 ## How this repo is organized
 
-/weekly      One file per week. Goals, what shipped, what broke, lessons.
-/projects    The actual builds. Each in its own subfolder with its own README.
-/prompts     System prompts and Claude Project instructions worth keeping.
-/notes       Concepts, patterns, references I want to find again later.
+- /weekly      One file per week. Goals, what shipped, what broke, lessons.
+- /projects    The actual builds. Each in its own subfolder with its own README.
+- /prompts     System prompts and Claude Project instructions worth keeping.
+- /notes       Concepts, patterns, references I want to find again later.
 
 ## The 12-week shape (rough)
 
